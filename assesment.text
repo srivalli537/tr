@@ -1,0 +1,26 @@
+Give me some idea on what is a Data type.
+What are Primitive Data types and Non-Primitive Data types.
+Explain with some examples.
+
+A data type is a classification of data that tells the compiler or interpreter how the
+ programmer intends to use the data. It defines:
+
+The type of value (e.g., integer, floating-point, text, etc.)
+The operations that can be performed on the data.
+The memory size allocated to store the data.
+In programming, data types are essential because they help manage and organize data efficiently.
+
+two data types are there:
+1)Primitive data type
+Integer
+floating
+character
+boolean
+string
+2)Non-Primitive data type
+Array
+class
+list
+map
+set
+
